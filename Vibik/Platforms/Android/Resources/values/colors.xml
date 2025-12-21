@@ -2,4 +2,8 @@
 <resources>
     <color name="vibik_brown">#6D4C41</color>
     <color name="vibik_splash_screen">#588088</color>
+
+    <color name="colorAccent">#CA7C4C</color>
+    <color name="colorSecondary">#CA7C4C</color>
+
 </resources>

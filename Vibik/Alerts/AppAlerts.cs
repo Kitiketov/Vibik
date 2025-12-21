@@ -18,7 +18,7 @@ public static class AppAlerts
 
     public static Task<bool> ChangeTask(int details) =>
         Alerts.Confirm("Сменить задание",
-            $"Вы уверены, что хотите поменять задание за {details} опыта?");
+            $"Вы уверены, что хотите поменять задание за {details} монет?");
 
     public static Task TaskOnModeration() =>
         Alerts.Info("На модерации", "Это задание уже отправлено и сейчас проверяется.");

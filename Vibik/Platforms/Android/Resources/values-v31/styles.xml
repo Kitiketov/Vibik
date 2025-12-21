@@ -4,5 +4,8 @@
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo128</item>
 
         <item name="android:windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="colorSecondary">#CA7C4C</item>
+        <item name="android:colorAccent">#CA7C4C</item>
+
     </style>
 </resources>
